@@ -85,6 +85,7 @@ This project uses [semver](https://semver.org) for versioning. Current version: 
 
 | Community Name | Location | Web App Link | 
 | --- | --- | --- | 
+| DSC Botswana Accountancy College | Botswana | [Live Here](https://bac-github-club.github.io/DSC-BAC-WEBSITE/index.html) |
 | DSC Kisii University | Kenya | [Live Here](https://devclub-kisii.firebaseapp.com/) |
 | DSC Taita Taveta University | Kenya | [Live Here](https://dsc-ttu.firebaseapp.com/) |
 | DSC Bayero University Kano | Nigeria | [Live Here](https://dscbuk.club/) |
